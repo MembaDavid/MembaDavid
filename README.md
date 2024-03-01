@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MembaDavid
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science project
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning javascript and react
+- 💞️ I’m looking to collaborate on open source projects for hands on experience
 - 📫 How to reach me via email davidmemba2@gmail.com
 
 <!---
