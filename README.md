@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MembaDavid
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on open source projects for hands on experience
+- 🌱 I’m currently developing in Javascript and React
+- 💞️ I’m collaborating to open source projects for hands on experience
 - 📫 How to reach me via email davidmemba2@gmail.com
 
 <!---
